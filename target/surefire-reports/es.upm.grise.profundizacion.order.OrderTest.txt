@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.upm.grise.profundizacion.order.OrderTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.527 s -- in es.upm.grise.profundizacion.order.OrderTest
